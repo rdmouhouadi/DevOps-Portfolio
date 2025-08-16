@@ -1,7 +1,7 @@
 # 🚀 DevOps Portfolio Hub
 
 Welcome to my **DevOps Portfolio Hub**!  
-This repository acts as the central index of all my hands-on DevOps projects built during my Bootcamp.  
+This repository serves as the central index of all my hands-on DevOps projects.
 Each project lives in its own GitHub repository, but this hub organizes them by **domain, technology, and DevOps concepts**.
 
 ---
@@ -11,7 +11,7 @@ Each project lives in its own GitHub repository, but this hub organizes them by 
 - **Stack:** DigitalOcean, Linux, Java, Gradle  
 - **DevOps Concepts:** Cloud provisioning, user management, app deployment  
 - **Highlights:**  
-  - Configured secure Linux server on DigitalOcean  
+  - Configured a secure Linux server on DigitalOcean  
   - Deployed Java Gradle application  
 
 ### 📦 [Artifact Hub with Nexus](https://github.com/username/nexus-artifact-hub)
