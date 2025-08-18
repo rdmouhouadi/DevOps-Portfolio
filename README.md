@@ -3,6 +3,7 @@
 Welcome to my **DevOps Portfolio Hub**!  
 This repository serves as the central index of all my hands-on DevOps projects.
 Each project lives in its own GitHub repository, but this hub organizes them by **domain, technology, and DevOps concepts**.
+Projects tackled go from simple real-world DevOps tasks to fully automated end-to-end CI/CD pipelines.
 
 ---
 
